@@ -1,0 +1,14 @@
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\bin\Debug\net8.0\ColectionsTasks.exe
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\bin\Debug\net8.0\ColectionsTasks.deps.json
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\bin\Debug\net8.0\ColectionsTasks.runtimeconfig.json
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\bin\Debug\net8.0\ColectionsTasks.dll
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\bin\Debug\net8.0\ColectionsTasks.pdb
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.AssemblyInfoInputs.cache
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.AssemblyInfo.cs
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.csproj.CoreCompileInputs.cache
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.dll
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\refint\ColectionsTasks.dll
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.pdb
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ColectionsTasks.genruntimeconfig.cache
+C:\Users\Dell G15\source\repos\ColectionsTasks\ColectionsTasks\obj\Debug\net8.0\ref\ColectionsTasks.dll
